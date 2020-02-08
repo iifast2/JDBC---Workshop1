@@ -1,4 +1,4 @@
-# JDBC - Workshop1
+# JDBC - PIDEV - Workshop1
 Java DataBase ( in Class - Workshop 1 + Singleton ) JDBC 
 
 
